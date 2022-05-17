@@ -1,0 +1,12 @@
+
+Load csv files is panda - source for guidnace- https://www.youtube.com/watch?v=q1lxxAwik80
+convert date - https://stackoverflow.com/questions/39288013/convert-date-time-columns-in-pandas-dataframe
+
+how to extract dates :- https://www.youtube.com/watch?v=3aOtG9ns_Ko	
+
+mean , median ,mode tutorial - https://www.youtube.com/watch?v=kxyt3ohLuDI
+
+group by function-Python Pandas Tutorial 7. Group By (Split Apply Combine)
+
+
+ xhlow's & yash motwani's repository Git repository helped with understanding the structure and details of certain functions
